@@ -13,3 +13,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#Ignora tutti i file che finiscono con la tilde (~) 
+*~
+

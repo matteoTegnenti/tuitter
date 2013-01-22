@@ -81,3 +81,6 @@ label > span {
 	float: right;
 	color: gray;
 }
+.tweet .category {
+	color: gray;
+}
